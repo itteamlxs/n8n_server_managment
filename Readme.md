@@ -1,5 +1,3 @@
----
-
 ````markdown
 # Lab: Password Recovery in n8n using SQLite and bcrypt
 
