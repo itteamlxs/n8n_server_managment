@@ -1,7 +1,8 @@
 ````markdown
 # Lab: Password Recovery in n8n using SQLite and bcrypt
 
-This lab demonstrates how to **recover or reset the owner user password in n8n** using SQLite and Node.js (`bcrypt`). It shows how to generate a compatible hash and update the password directly in the database.
+This lab demonstrates how to **recover or reset the owner user password in n8n** using SQLite and Node.js (`bcrypt`). It shows how to generate a compatible hash and update the password directly in the database
+n8n Password Recovery Lab: Reset and recover n8n user passwords using SQLite and bcrypt. n8n is running in Docker.
 
 ---
 
